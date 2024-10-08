@@ -52,3 +52,7 @@ This command will execute the main method in the Hello class, and you should see
 
 ```Note```
 Ensure that you have the Java Development Kit (JDK) installed on your system and that the javac and java commands are available in your system's PATH to compile and run Java programs.
+
+
+![execution of java code](./image1.png "Execution of Java Code")
+
